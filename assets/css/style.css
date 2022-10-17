@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.gallaryImgs img{
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
